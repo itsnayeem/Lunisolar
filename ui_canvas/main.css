@@ -1,0 +1,31 @@
+body
+{
+	background-color: #111;
+	color: #ffffff;
+/*	color: #000000;*/
+/*	border: 1px solid white;*/
+	margin: 0 0;
+}
+#content
+{
+    margin: 0 0;
+}
+#space1
+{
+    margin: 0 0;
+	/*border: 1px solid red;*/
+    float: left;
+}
+#space2
+{
+    margin: 0 0;
+    /*border: 1px solid yellow;*/
+    float: left;
+}
+#space3
+{
+    margin: 0 0;
+    /*border: 1px solid green;*/
+    float: left;
+}
+
